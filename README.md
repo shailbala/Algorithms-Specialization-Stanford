@@ -1,1 +1,2 @@
-# Coursera-Algorithms-Stanford
+# Algorithms-Specialization-Stanford
+
