@@ -9,4 +9,6 @@ Test Cases: https://github.com/beaunus/stanford-algs/tree/master/testCases
      * PA 1: Karatsuba Multiplication
   * Week 2:
      * PA 2: Count Inversions 
+  * Week 3:
+     * PA 3: Quick Sort
       
